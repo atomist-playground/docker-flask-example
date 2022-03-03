@@ -19,7 +19,7 @@ updated every time I bump the versions:
 
 [![Screenshot](.github/docs/screenshot.jpg)](https://github.com/nickjj/docker-flask-example/blob/main/.github/docs/screenshot.jpg?raw=true)
 
-## Table of contents
+## Table of contents 
 
 - [Tech stack](#tech-stack)
 - [Notable opinions and extensions](#notable-opinions-and-extensions)
